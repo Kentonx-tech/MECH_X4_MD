@@ -17,7 +17,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𓆩ု᪳𝐌𝐄𝐂𝐇𝐗4ှ᪳𓆪"
+      "value": "𓆩MECHX4-MD𓆪"
     }, 
       
     "PREFIX": {
@@ -102,14 +102,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
+      "value": "*SEEN YOUR STATUS JUST NOW MECHX4-MD 🍒*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𓆩ု᪳𝐌𝐄𝐂𝐇𝐗4-𝐌𝐃-𝐁𝐎𝐓ှ᪳𓆪"
+      "value": "𓆩MECHX4-MD𓆪"
 
       }, 
     
