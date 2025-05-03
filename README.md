@@ -3,7 +3,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `4.0.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
 ---
 
 
@@ -20,15 +20,13 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p align='center'>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+MECHX4-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MECH+X4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+MECHX4-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MECH+X4" alt="" /></a>
   </p>
   
 --- 
 
-<a><img src'https://files.catbox.moe/dldisj.jpg'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<img align="center" height="auto"
+src="https://files.catbox.moe/dldisj.jpg">
 ***
 
 
