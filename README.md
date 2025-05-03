@@ -3,7 +3,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
+> **𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐄𝐂𝐇𝐗4-𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⚡`**
 ---
 
 
