@@ -139,7 +139,7 @@ src="https://files.catbox.moe/dldisj.jpg">
 
 ```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
 
-> CREDITS MECHX4🎐
+> CREDITS MECHX4 and MR X🎐
 
 *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴇᴄʜx4*</h6>
 
